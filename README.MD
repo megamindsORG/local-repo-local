@@ -5,3 +5,15 @@ Az Assignment Demo :
 
 ## Markdown has multi level header this is a level 2 header.
 ### This is a level 3 header.	
+
+## Features
+
+### Bulletpoint List
+
+* One 
+* Two
+* Three
+
+### Links
+
+Markdown support links, like this one to (Google)[https://google.com]
