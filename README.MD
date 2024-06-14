@@ -17,18 +17,3 @@ Az Assignment Demo :
 ### Links
 
 Markdown support links, like this one to [Google](https://google.com)
-
-
-### Tables
-
-|Column A      |column B      |
-|--------------|--------------|
-|Row 1 Column A|Row 1 Column B|
-|Row 2 Column A|Row 2 Column B|
-
-
-### Text Formatting
-
-*<b>Bold Text<b>
-*<i>italic Text<i>
-*<u>underline Text<u>
